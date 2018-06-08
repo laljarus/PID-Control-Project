@@ -6,3 +6,6 @@ The aim of this project is to implement a PID ( Propotional Integral and Derivat
 1. Identification of System Model
 2. Controller Design
 
+## System Identification
+In order to design a controller it is important to understand the behaviour of the system. The following picture shows the overview of the control loop for controlling the steering of the vehicle.
+
